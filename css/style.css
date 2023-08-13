@@ -1408,3 +1408,6 @@ h1, h2, h3, h5,
     right: 0;
     color: #b3b3b3;
 }
+.btgray{
+    background-color: rgba(179, 179, 179, 0.45) !important;
+}
